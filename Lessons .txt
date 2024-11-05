@@ -1,0 +1,5 @@
+remote commit to github from git 
+
+git remote add origin ,,, URL of repository ,,, you will find it on git hub 
+
+git push -u master >>> or name of the latest branch
